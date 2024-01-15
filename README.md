@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @shivajee98
 - 👀 I’m interested in open source contribution.
 - 🌱 I’m currently practising devops.
+- check out my recent github activities
 - 💞️ I’m looking to collaborate on Jenkins
 - 📫 DM on twitter :- twitter.com/shivajee_
 
