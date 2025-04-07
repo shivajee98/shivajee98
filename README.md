@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivajee</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A killer software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivajee98&label=Profile%20views&color=0e75b6&style=flat" alt="shivajee98" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/shivajee_" target="blank"><img src="https://img.shields.io/twitter/follow/shivajee_?logo=twitter&style=for-the-badge" alt="shivajee_" /></a> </p>
 
-- 🌱 I’m currently learning web-dev **Javascript, React Js, Typescript, Next.Js**
+- 🌱 Currently building in **Golang, Next Js, Typescript**
 
-- 📫 How to reach me **https://www.linkedin.com/in/shiva-jee-81469b258/**
+- 📫 How to reach me **https://www.linkedin.com/in/shiva-jee-81469b258/** (BTW Account Deactivated)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
