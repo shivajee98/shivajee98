@@ -21,6 +21,37 @@ I'm a passionate **Backend Development** with expertise in modern web technologi
 
 ---
 
+---
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/shivajee98/shivajee98/blob/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/shivajee98/shivajee98/blob/output/github-snake-light.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/shivajee98/shivajee98/blob/output/github-snake-dark.svg">
+  </picture>
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivajee98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivajee98&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivajee98&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivajee98&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -62,23 +93,6 @@ I'm a passionate **Backend Development** with expertise in modern web technologi
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivajee98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivajee98&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivajee98&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivajee98&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -93,7 +107,7 @@ I'm a passionate **Backend Development** with expertise in modern web technologi
 
 <div align="center">
   
-  **🔗 [OPEXN Platform](https://opexn.vercel.app/)**
+  **🔗 [OPEXN Platform](https://opexn.com)**
   
   *A comprehensive web application built with modern technologies*
   
@@ -102,14 +116,6 @@ I'm a passionate **Backend Development** with expertise in modern web technologi
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
   
   ---
-  
-  **💰 [Finance Management System](https://finance-management-ebon-iota.vercel.app/)**
-  
-  *A full-stack finance management application with advanced features*
-  
-  ![Finance App](https://img.shields.io/badge/Live-Finance%20App-success?style=for-the-badge&logo=vercel)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   
 </div>
 
@@ -166,19 +172,6 @@ I'm a passionate **Backend Development** with expertise in modern web technologi
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
----
-
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/shivajee98/shivajee98/blob/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/shivajee98/shivajee98/blob/output/github-snake-light.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/shivajee98/shivajee98/blob/output/github-snake-dark.svg">
-  </picture>
-</div>
-
----
 
 <div align="center">
   <h3>💖 Thanks for visiting my profile!</h3>
