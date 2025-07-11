@@ -34,6 +34,22 @@ I'm a passionate **Backend Development** with expertise in modern web technologi
 </div>
 
 ---
+---
+
+## 📈 Development Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-eta-bice.vercel.app?user=shivajee98&theme=blue-navy&fire=#EB5454FF)](https://git.io/streak-stats" />
+</div>
+
+<div align="center">
+  <h4>🔥 Current Focus Areas</h4>
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js-blue?style=for-the-badge" alt="Frontend Focus" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-green?style=for-the-badge" alt="Backend Focus" />
+  <img src="https://img.shields.io/badge/Database-MongoDB%20%7C%20PostgreSQL-orange?style=for-the-badge" alt="Database Focus" />
+</div>
+
+---
 
 ## 📊 GitHub Statistics
 
@@ -127,22 +143,7 @@ I'm a passionate **Backend Development** with expertise in modern web technologi
   </a>
 </div>
 
----
 
-## 📈 Development Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats-eta-bice.vercel.app?user=shivajee98&theme=blue-navy&fire=#EB5454FF)](https://git.io/streak-stats" />
-</div>
-
-<div align="center">
-  <h4>🔥 Current Focus Areas</h4>
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js-blue?style=for-the-badge" alt="Frontend Focus" />
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-green?style=for-the-badge" alt="Backend Focus" />
-  <img src="https://img.shields.io/badge/Database-MongoDB%20%7C%20PostgreSQL-orange?style=for-the-badge" alt="Database Focus" />
-</div>
-
----
 
 ## 🤝 Connect With Me
 
