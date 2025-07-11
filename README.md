@@ -172,9 +172,9 @@ I'm a passionate **Backend Development** with expertise in modern web technologi
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sanjeev0303/shivajee98/blob/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/sanjeev0303/shivajee98/blob/output/github-snake-light.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/sanjeev0303/shivajee98/blob/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/shivajee98/shivajee98/blob/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/shivajee98/shivajee98/blob/output/github-snake-light.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/shivajee98/shivajee98/blob/output/github-snake-dark.svg">
   </picture>
 </div>
 
