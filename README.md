@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Sanjeev+%F0%9F%91%8B;Full-Stack+Web+Developer;Building+Amazing+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Shivajee+%F0%9F%91%8B;Full-Stack+Web+Developer;Building+Amazing+Digital+Experiences" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjeev0303&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sanjeev0303?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=shivajee98&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/shivajee98?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
 ---
