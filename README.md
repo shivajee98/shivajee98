@@ -13,10 +13,8 @@
 
 I'm a passionate **Backend Development** with expertise in modern web technologies and a love for creating innovative digital solutions. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 
-- 🔭 I'm currently working on **exciting full-stack projects**
-- 🌱 I'm constantly learning and exploring **new technologies**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **React, Node.js, JavaScript, and web development**
+- 🔭 I'm currently delivering **exciting full-stack projects** to my clients.
+- 🌱 I'm constantly exploring **CNCF Projects**
 - ⚡ Fun fact: **I love debugging as much as I love coding!**
 
 ---
